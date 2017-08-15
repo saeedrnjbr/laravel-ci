@@ -12,5 +12,5 @@
 */
 
 Route::get('/', function () {
-   echo "welcome tesing route";
+   echo "welcome";
 });
